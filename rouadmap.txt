@@ -1,0 +1,4 @@
+Part 3 done.
+NEXT :
+
+https://docs.djangoproject.com/fr/1.11/intro/tutorial04/
